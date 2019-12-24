@@ -32,7 +32,7 @@ Within the react App delete all files from the src folder and create your own fi
 
 ### RJS.9.1
 
-- [ ] Users should be able to add items to the cart. The cart should be accessible from a `/shoppingcart` route. This route is accessed by clicking the shopping cart icon. 
+- [x] Users should be able to add items to the cart. The cart should be accessible from a `/shoppingcart` route. This route is accessed by clicking the shopping cart icon. 
 
 ### RJS.9.2
 
